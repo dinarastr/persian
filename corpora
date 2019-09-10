@@ -1,0 +1,4 @@
+git clone
+cd <name>
+git status
+git add *
